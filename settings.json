@@ -1,0 +1,41 @@
+{
+    "room": "Krense EDM",
+    "author": "Krense",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": false,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": false,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": false,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#FF0000",
+        "cohost": "#BA1212",
+        "manager": "#FFA600",
+        "bouncer": "#42EEF2",
+        "rdj": "#B547FF",
+        "subscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    }
+}
