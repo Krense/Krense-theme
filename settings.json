@@ -30,12 +30,11 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
+        "host": "https://raw.githubusercontent.com/Krense/Krense-theme/master/host.png",
+        "cohost": "https://raw.githubusercontent.com/Krense/Krense-theme/master/co-host.png",
+        "manager": "https://raw.githubusercontent.com/Krense/Krense-theme/master/manager.png",
+        "bouncer": "https://raw.githubusercontent.com/Krense/Krense-theme/master/bouncer.png",
         "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null
+        "subscriber": null
     }
 }
