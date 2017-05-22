@@ -26,7 +26,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "https://raw.githubusercontent.com/Krense/Krense-theme/master/background.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
